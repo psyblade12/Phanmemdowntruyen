@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html lang="vi" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Onepunch-Man chap 1, Onepunch-Man chap 1 tiếng việt, đọc truyện Onepunch-Man chap 1, truyen tranh, truyen tranh online">
+<title>Onepunch-Man chap 1 tiếng Việt - Mangak.info</title>
+<meta name="description" content="Đọc truyện tranh Onepunch-Man chap 1 Tiếng Việt được cập nhật sớm nhất chỉ có tại website đọc truyện tranh siêu nhanh Mangak.info" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://mangak.info/xmlrpc.php">
+<link rel="icon" type="image/png" href="http://mangak.info/wp-content/themes/manga/images/mangak-favicon.png">
+<meta property="fb:admins" content="100008660469281"/>
+<meta property="fb:app_id" content="1711546109159180"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="http://mangak.info/wp-content/uploads/2014/03/Onepunch-Man.png"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:description" content="Một Manga thể loại siêu anh hùng với đặc trưng phồng tôm đấm phát chết luôn...Lol"/>
+
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+	<meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+	<meta prefix="og: http://ogp.me/ns#" property="og:title" content="Onepunch-Man chap 1" />
+	<meta prefix="og: http://ogp.me/ns#" property="og:url" content="http://mangak.info/onepunch-man-chap-1/" />
+	<meta prefix="og: http://ogp.me/ns#" property="og:site_name" content="Đọc Truyện Tranh Online Manga Nhật Bản tiếng Việt hay nhất" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="google-site-verification" content="68eo7ICNS0aEONKhewwfykgDlgzUaNxGv8eBz1Hnt6s" />
+<!-- /SEO Ultimate -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mangak.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wsl-widget-css'  href='http://mangak.info/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='http://mangak.info/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.84' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://mangak.info/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type='text/javascript' src='http://mangak.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://mangak.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://mangak.info/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mangak.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mangak.info/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='17-sai, Kiss to Dilemma chap 22' href='http://mangak.info/17-sai-Kiss-to-Dilemma-chap-22/' />
+<link rel='next' title='Onepunch-Man chap 2' href='http://mangak.info/Onepunch-Man-chap-2/' />
+<meta name="generator" content="WordPress 4.7.4" />
+<link rel="canonical" href="http://mangak.info/onepunch-man-chap-1/" />
+<link rel='shortlink' href='http://mangak.info/?p=55456' />
+<link rel="alternate" type="application/json+oembed" href="http://mangak.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmangak.info%2Fonepunch-man-chap-1%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://mangak.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmangak.info%2Fonepunch-man-chap-1%2F&#038;format=xml" />
+<link rel="stylesheet" href="http://mangak.info/wp-content/themes/manga/style.min.css">
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed&subset=vietnamese' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://mangak.info/wp-content/themes/manga/style/slicknav.min.css">
+<script type="text/javascript" src="http://mangak.info/wp-content/themes/manga/js/jquery-1-11.js"></script>
+<script type="text/javascript" src="http://mangak.info/wp-content/themes/manga/js/chapter.js?t=2"></script>
+<script type="text/javascript" src="http://mangak.info/wp-content/themes/manga/js/cookie.js"></script>
+<script type="text/javascript" src="http://mangak.info/wp-content/themes/manga/js/jquery.popupoverlay.js"></script>
+<script type="text/javascript" src="http://mangak.info/wp-content/themes/manga/js/jquery.slicknav.min.js"></script>
+<style>.caucav1{display: none!important}</style>
+<!--<style>.top_header {background: url('http://mangak.info/wp-content/themes/manga/images/noel.png') #FFF;}</style>-->
+</head>
+<body id="trang_doc">
+<div class="wrap-body">
+<!-- facebook script -->
+<script type="text/javascript">
+// prevent jQuery from appending cache busting string to the end of the FeatureLoader URL 
+var cache = jQuery.ajaxSettings.cache; 
+$.ajaxSettings.cache = true;
+// Load FeatureLoader asynchronously. Once loaded, we execute Facebook init 
+
+$.getScript('//connect.facebook.net/vi_VN/sdk.js', function() {      
+FB.init({appId: '1711546109159180', status: true, cookie: true, xfbml: true,version:'v2.8'});    
+});
+// just Restore jQuery caching setting
+$.ajaxSettings.cache = cache;
+</script>
+<!-- facebook script -->
+<div id="header">
+<div class="menu-mobile"></div>
+<div class="top_header">
+<a rel="nofollow" class="logo" href="http://mangak.info" title="Truyện tranh, đọc truyện tranh online mangak.info">Mangak.info</a>
+<div class="header_user">
+<!--<a target="_blank" href="http://truyentranhmoi.com/" title="Truyen tranh" style="font-weight:bold;color: #31a95b;">Truyen tranh</a>-->
+<a rel="nofollow" href="http://mangak.info/wp-login.php?redirect_to=http%3A%2F%2Fmangak.info%2Fonepunch-man-chap-1%2F" title="Đăng nhập">Đăng nhập</a>
+</div>
+</div>
+<div class="wrap-menu">
+<ul id="menu" class="menu"><li id="menu-item-72532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-72532"><a title="Truyện tranh online" href="http://mangak.info/">Truyện tranh</a></li>
+<li id="menu-item-107935" class="text-color menu-item menu-item-type-custom menu-item-object-custom menu-item-107935"><a title="truyen tranh" target="_blank" href="http://truyentranhmoi.com/">Truyen tranh</a></li>
+<li id="menu-item-72530" class="menu-item menu-item-type-taxonomy menu-item-object-manga-status menu-item-72530"><a title="Truyện tranh hot" href="http://mangak.info/hot/">Truyện Hot</a></li>
+<li id="menu-item-72531" class="menu-item menu-item-type-taxonomy menu-item-object-manga-status menu-item-72531"><a title="Truyện tranh đã hoàn thành" href="http://mangak.info/full/">Hoàn thành</a></li>
+<li id="menu-item-80430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80430"><a title="Tổng hợp tin tức Mangak" href="http://mangak.info/tin-tuc/">Tin tức</a></li>
+</ul></div>
+</div><!-- End header --><div class="breadcrumb breadcrumbs breadcrumbs_doc">
+<div class="rdfa-breadcrumb">
+<div>
+<p>
+<span class="breadcrumbs-title"></span>
+<span>
+<a href="http://mangak.info" title="Truyện tranh" class="home">Truyện tranh</a>
+</span>
+<span class="separator">»</span>
+<span class="breadcrumbs-title"></span>
+<span>
+<a href="http://mangak.info/onepunch-man-r/" class="home">Onepunch-Man</a>
+</span>
+<span class="separator">»</span> Onepunch-Man chap 1</p>
+</div>
+</div>
+</div>
+<div class="menu_doc">
+<select class="select-chapter">
+<option value="http://mangak.info/onepunch-man-chap-114-5/">Onepunch-Man chap 114.5</option>
+<option value="http://mangak.info/onepunch-man-chap-114/">Onepunch-Man chap 114</option>
+<option value="http://mangak.info/onepunch-man-chap-113-1/">Onepunch-Man chap 113.1</option>
+<option value="http://mangak.info/onepunch-man-chap-113/">Onepunch-Man chap 113</option>
+<option value="http://mangak.info/onepunch-man-chap-112/">Onepunch-Man chap 112</option>
+<option value="http://mangak.info/onepunch-man-chap-111-5/">Onepunch-Man chap 111.5</option>
+<option value="http://mangak.info/onepunch-man-chap-111/">Onepunch-Man chap 111</option>
+<option value="http://mangak.info/onepunch-man-chap-110/">Onepunch-Man chap 110</option>
+<option value="http://mangak.info/onepunch-man-chap-109/">Onepunch-Man chap 109</option>
+<option value="http://mangak.info/onepunch-man-chap-108/">Onepunch-Man chap 108</option>
+<option value="http://mangak.info/onepunch-man-chap-107-extra/">Onepunch-Man chap 107.extra</option>
+<option value="http://mangak.info/onepunch-man-chap-107-1/">Onepunch-Man chap 107.1</option>
+<option value="http://mangak.info/onepunch-man-chap-107/">Onepunch-Man chap 107</option>
+<option value="http://mangak.info/onepunch-man-chap-106/">Onepunch-Man chap 106</option>
+<option value="http://mangak.info/onepunch-man-chap-105-1/">Onepunch-Man chap 105.1</option>
+<option value="http://mangak.info/onepunch-man-chap-105/">Onepunch-Man chap 105</option>
+<option value="http://mangak.info/onepunch-man-chap-104/">Onepunch-Man chap 104</option>
+<option value="http://mangak.info/onepunch-man-chap-103/">Onepunch-Man chap 103</option>
+<option value="http://mangak.info/onepunch-man-chap-102/">Onepunch-Man chap 102</option>
+<option value="http://mangak.info/onepunch-man-chap-101-doujin/">Onepunch-Man chap 101.doujin</option>
+<option value="http://mangak.info/onepunch-man-chap-101/">Onepunch-Man chap 101</option>
+<option value="http://mangak.info/onepunch-man-chap-100/">Onepunch-Man chap 100</option>
+<option value="http://mangak.info/onepunch-man-chap-99/">Onepunch-Man chap 99</option>
+<option value="http://mangak.info/onepunch-man-chap-98/">Onepunch-Man chap 98</option>
+<option value="http://mangak.info/onepunch-man-chap-97-5/">Onepunch-Man chap 97.5</option>
+<option value="http://mangak.info/onepunch-man-chap-97/">Onepunch-Man chap 97</option>
+<option value="http://mangak.info/onepunch-man-chap-96/">Onepunch-Man chap 96</option>
+<option value="http://mangak.info/onepunch-man-chap-95/">Onepunch-Man chap 95</option>
+<option value="http://mangak.info/onepunch-man-chap-94/">Onepunch-Man chap 94</option>
+<option value="http://mangak.info/onepunch-man-chap-93-5/">Onepunch-Man chap 93.5</option>
+<option value="http://mangak.info/onepunch-man-chap-93/">Onepunch-Man chap 93</option>
+<option value="http://mangak.info/onepunch-man-chap-92/">Onepunch-Man chap 92</option>
+<option value="http://mangak.info/onepunch-man-chap-91/">Onepunch-Man chap 91</option>
+<option value="http://mangak.info/onepunch-man-chap-90-special/">Onepunch-Man chap 90.Special</option>
+<option value="http://mangak.info/onepunch-man-chap-90/">Onepunch-Man chap 90</option>
+<option value="http://mangak.info/onepunch-man-chap-89/">Onepunch-Man chap 89</option>
+<option value="http://mangak.info/onepunch-man-chap-88/">Onepunch-Man chap 88</option>
+<option value="http://mangak.info/onepunch-man-chap-87/">Onepunch-Man chap 87</option>
+<option value="http://mangak.info/onepunch-man-chap-86/">Onepunch-Man chap 86</option>
+<option value="http://mangak.info/onepunch-man-chap-85-5/">Onepunch-Man chap 85.5</option>
+<option value="http://mangak.info/onepunch-man-chap-85/">Onepunch-Man chap 85</option>
+<option value="http://mangak.info/onepunch-man-chap-84/">Onepunch-Man chap 84</option>
+<option value="http://mangak.info/onepunch-man-chap-83/">Onepunch-Man chap 83</option>
+<option value="http://mangak.info/onepunch-man-chap-82/">Onepunch-Man chap 82</option>
+<option value="http://mangak.info/onepunch-man-chap-81-5/">Onepunch-Man chap 81.5</option>
+<option value="http://mangak.info/onepunch-man-chap-81/">Onepunch-Man chap 81</option>
+<option value="http://mangak.info/onepunch-man-chap-80/">Onepunch-Man chap 80</option>
+<option value="http://mangak.info/onepunch-man-chap-79-5/">Onepunch-Man chap 79.5</option>
+<option value="http://mangak.info/onepunch-man-chap-79/">Onepunch-Man chap 79</option>
+<option value="http://mangak.info/onepunch-man-chap-78-5/">Onepunch-Man chap 78.5</option>
+<option value="http://mangak.info/onepunch-man-chap-77-6/">Onepunch-Man chap 77.6</option>
+<option value="http://mangak.info/onepunch-man-chap-77-5/">Onepunch-Man chap 77.5</option>
+<option value="http://mangak.info/onepunch-man-chap-77/">Onepunch-Man chap 77</option>
+<option value="http://mangak.info/onepunch-man-chap-76/">Onepunch-Man chap 76</option>
+<option value="http://mangak.info/onepunch-man-chap-75/">Onepunch-Man chap 75</option>
+<option value="http://mangak.info/onepunch-man-chap-74/">Onepunch-Man chap 74</option>
+<option value="http://mangak.info/onepunch-man-chap-73/">Onepunch-Man chap 73</option>
+<option value="http://mangak.info/onepunch-man-chap-72/">Onepunch-Man chap 72</option>
+<option value="http://mangak.info/onepunch-man-chap-71-5/">Onepunch-Man chap 71.5</option>
+<option value="http://mangak.info/onepunch-man-chap-71/">Onepunch-Man chap 71</option>
+<option value="http://mangak.info/onepunch-man-chap-70/">Onepunch-Man chap 70</option>
+<option value="http://mangak.info/onepunch-man-chap-69/">Onepunch-Man chap 69</option>
+<option value="http://mangak.info/onepunch-man-chap-68/">Onepunch-Man chap 68</option>
+<option value="http://mangak.info/onepunch-man-chap-67-ver-2/">Onepunch-Man chap 67.Ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-67-2/">Onepunch-Man chap 67.2</option>
+<option value="http://mangak.info/onepunch-man-chap-67/">Onepunch-Man chap 67</option>
+<option value="http://mangak.info/onepunch-man-chap-66-6/">Onepunch-Man chap 66.6</option>
+<option value="http://mangak.info/onepunch-man-chap-66-5/">Onepunch-Man chap 66.5</option>
+<option value="http://mangak.info/onepunch-man-chap-66/">Onepunch-Man chap 66</option>
+<option value="http://mangak.info/onepunch-man-chap-65/">Onepunch-Man chap 65</option>
+<option value="http://mangak.info/onepunch-man-chap-64/">Onepunch-Man chap 64</option>
+<option value="http://mangak.info/onepunch-man-chap-63/">Onepunch-Man chap 63</option>
+<option value="http://mangak.info/onepunch-man-chap-62/">Onepunch-Man chap 62</option>
+<option value="http://mangak.info/onepunch-man-chap-61/">Onepunch-Man chap 61</option>
+<option value="http://mangak.info/onepunch-man-chap-60/">Onepunch-Man chap 60</option>
+<option value="http://mangak.info/onepunch-man-chap-59/">Onepunch-Man chap 59</option>
+<option value="http://mangak.info/onepunch-man-chap-58/">Onepunch-Man chap 58</option>
+<option value="http://mangak.info/onepunch-man-chap-57/">Onepunch-Man chap 57</option>
+<option value="http://mangak.info/onepunch-man-chap-56-5/">Onepunch-Man chap 56.5</option>
+<option value="http://mangak.info/onepunch-man-chap-56/">Onepunch-Man chap 56</option>
+<option value="http://mangak.info/onepunch-man-chap-55/">Onepunch-Man chap 55</option>
+<option value="http://mangak.info/onepunch-man-chap-54/">Onepunch-Man chap 54</option>
+<option value="http://mangak.info/onepunch-man-chap-53-5/">Onepunch-Man chap 53.5</option>
+<option value="http://mangak.info/onepunch-man-chap-53/">Onepunch-Man chap 53</option>
+<option value="http://mangak.info/onepunch-man-chap-52/">Onepunch-Man chap 52</option>
+<option value="http://mangak.info/onepunch-man-chap-51/">Onepunch-Man chap 51</option>
+<option value="http://mangak.info/onepunch-man-chap-50/">Onepunch-Man chap 50</option>
+<option value="http://mangak.info/onepunch-man-chap-49-ver-2/">Onepunch-Man chap 49.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-49/">Onepunch-Man chap 49</option>
+<option value="http://mangak.info/onepunch-man-chap-48-5/">Onepunch-Man chap 48.5</option>
+<option value="http://mangak.info/onepunch-man-chap-48/">Onepunch-Man chap 48</option>
+<option value="http://mangak.info/onepunch-man-chap-47-ver-2/">Onepunch-Man chap 47.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-47-5/">Onepunch-Man chap 47.5</option>
+<option value="http://mangak.info/onepunch-man-chap-47/">Onepunch-Man chap 47</option>
+<option value="http://mangak.info/onepunch-man-chap-46-ver-2/">Onepunch-Man chap 46.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-46-5/">Onepunch-Man chap 46.5</option>
+<option value="http://mangak.info/onepunch-man-chap-46/">Onepunch-Man chap 46</option>
+<option value="http://mangak.info/onepunch-man-chap-45-ver-2/">Onepunch-Man chap 45.Ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-45/">Onepunch-Man chap 45</option>
+<option value="http://mangak.info/onepunch-man-chap-44/">Onepunch-Man chap 44</option>
+<option value="http://mangak.info/onepunch-man-chap-43/">Onepunch-Man chap 43</option>
+<option value="http://mangak.info/onepunch-man-chap-42/">Onepunch-Man chap 42</option>
+<option value="http://mangak.info/onepunch-man-chap-41-ver-3/">Onepunch-Man chap 41.ver 3</option>
+<option value="http://mangak.info/onepunch-man-chap-41-ver-2/">Onepunch-Man chap 41.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-41/">Onepunch-Man chap 41</option>
+<option value="http://mangak.info/onepunch-man-chap-40/">Onepunch-Man chap 40</option>
+<option value="http://mangak.info/onepunch-man-chap-39/">Onepunch-Man chap 39</option>
+<option value="http://mangak.info/onepunch-man-chap-38-ver-2/">Onepunch-Man chap 38.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-38-5/">Onepunch-Man chap 38.5</option>
+<option value="http://mangak.info/onepunch-man-chap-38/">Onepunch-Man chap 38</option>
+<option value="http://mangak.info/onepunch-man-chap-37/">Onepunch-Man chap 37</option>
+<option value="http://mangak.info/onepunch-man-chap-36-5/">Onepunch-Man chap 36.5</option>
+<option value="http://mangak.info/onepunch-man-chap-36/">Onepunch-Man chap 36</option>
+<option value="http://mangak.info/onepunch-man-chap-35-5/">Onepunch-Man chap 35.5</option>
+<option value="http://mangak.info/onepunch-man-chap-35-1/">Onepunch-Man chap 35.1</option>
+<option value="http://mangak.info/onepunch-man-chap-35/">Onepunch-Man chap 35</option>
+<option value="http://mangak.info/onepunch-man-chap-34/">Onepunch-Man chap 34</option>
+<option value="http://mangak.info/onepunch-man-chap-33/">Onepunch-Man chap 33</option>
+<option value="http://mangak.info/onepunch-man-chap-32/">Onepunch-Man chap 32</option>
+<option value="http://mangak.info/onepunch-man-chap-31/">Onepunch-Man chap 31</option>
+<option value="http://mangak.info/onepunch-man-chap-30/">Onepunch-Man chap 30</option>
+<option value="http://mangak.info/onepunch-man-chap-29/">Onepunch-Man chap 29</option>
+<option value="http://mangak.info/onepunch-man-chap-28/">Onepunch-Man chap 28</option>
+<option value="http://mangak.info/onepunch-man-chap-27/">Onepunch-Man chap 27</option>
+<option value="http://mangak.info/onepunch-man-chap-26/">Onepunch-Man chap 26</option>
+<option value="http://mangak.info/onepunch-man-chap-25/">Onepunch-Man chap 25</option>
+<option value="http://mangak.info/onepunch-man-chap-24/">Onepunch-Man chap 24</option>
+<option value="http://mangak.info/onepunch-man-chap-23-5/">Onepunch-Man chap 23.5</option>
+<option value="http://mangak.info/onepunch-man-chap-23/">Onepunch-Man chap 23</option>
+<option value="http://mangak.info/onepunch-man-chap-22-7/">Onepunch-Man chap 22.7</option>
+<option value="http://mangak.info/onepunch-man-chap-22-5/">Onepunch-Man chap 22.5</option>
+<option value="http://mangak.info/onepunch-man-chap-22/">Onepunch-Man chap 22</option>
+<option value="http://mangak.info/onepunch-man-chap-21/">Onepunch-Man chap 21</option>
+<option value="http://mangak.info/onepunch-man-chap-20/">Onepunch-Man chap 20</option>
+<option value="http://mangak.info/onepunch-man-chap-19/">Onepunch-Man chap 19</option>
+<option value="http://mangak.info/onepunch-man-chap-18-5/">Onepunch-Man chap 18.5</option>
+<option value="http://mangak.info/Onepunch-Man-chap-18/">Onepunch-Man chap 18</option>
+<option value="http://mangak.info/Onepunch-Man-chap-17/">Onepunch-Man chap 17</option>
+<option value="http://mangak.info/Onepunch-Man-chap-16/">Onepunch-Man chap 16</option>
+<option value="http://mangak.info/Onepunch-Man-chap-15/">Onepunch-Man chap 15</option>
+<option value="http://mangak.info/Onepunch-Man-chap-14/">Onepunch-Man chap 14</option>
+<option value="http://mangak.info/Onepunch-Man-chap-13/">Onepunch-Man chap 13</option>
+<option value="http://mangak.info/Onepunch-Man-chap-12/">Onepunch-Man chap 12</option>
+<option value="http://mangak.info/Onepunch-Man-chap-11/">Onepunch-Man chap 11</option>
+<option value="http://mangak.info/Onepunch-Man-chap-10/">Onepunch-Man chap 10</option>
+<option value="http://mangak.info/Onepunch-Man-chap-9/">Onepunch-Man chap 9</option>
+<option value="http://mangak.info/Onepunch-Man-chap-8/">Onepunch-Man chap 8</option>
+<option value="http://mangak.info/Onepunch-Man-chap-7/">Onepunch-Man chap 7</option>
+<option value="http://mangak.info/onepunch-man-chap-6/">Onepunch-Man chap 6</option>
+<option value="http://mangak.info/onepunch-man-chap-5/">Onepunch-Man chap 5</option>
+<option value="http://mangak.info/Onepunch-Man-chap-4/">Onepunch-Man chap 4</option>
+<option value="http://mangak.info/Onepunch-Man-chap-3/">Onepunch-Man chap 3</option>
+<option value="http://mangak.info/Onepunch-Man-chap-2/">Onepunch-Man chap 2</option>
+<option value="http://mangak.info/onepunch-man-chap-1/">Onepunch-Man chap 1</option>
+</select>
+<div>
+<a rel="nofollow" class="btn_theodoi btn_doc" href="http://mangak.info/Onepunch-Man-chap-2/" title="Onepunch-Man chap 2">Chap tiếp theo</a>
+<span class="btn_theodoi btn_doc bao_loi my_popup_open">Báo lỗi</span>
+</div>
+</div>
+<div class="hentry">
+<h1 class="name_chapter entry-title">Onepunch-Man chap 1</h1>
+<div class="entry-content">
+<div class="lem_bem_top">
+<h2>Onepunch-Man chap 1 - Mangak.info</h2>
+<p>Bạn đang <a href="http://mangak.info" title="Đọc Truyện Tranh">Đọc Truyện Tranh</a> <strong>Onepunch-Man chap 1</strong> tại <span>Mangak.info</span>. Sau khi đăng nhập bạn có thể dùng chức năng theo dõi truyện để lưu lại những bộ truyện yêu thích và sử dụng một số chức năng khác chỉ dành cho thành viên. Khi xem truyện Onepunch-Man chap 1 bạn có thể nhấn phím F11 bật chế độ toàn màn hình để đọc tốt hơn.<br>Thường xuyên ghé thăm Mangak để đọc những chương truyện mới nhất các bạn nhé. Chúc các bạn đọc truyện vui vẻ !</p>
+</div>
+<div class="wrap-ads" style="margin-top: 10px;text-align: center">
+<div class="ads-top" style="max-width:610px;margin:0 auto 5px;overflow: hidden">
+<div style="width: 300px;float:left"><script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_34952.ads"></script></div>
+<div style="width: 300px;float:left;margin-left: 5px"><script type="text/javascript">var ad_idzone = "2172423",ad_width = "300",ad_height = "250";</script><script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script><noscript><a href="https://main.exdynsrv.com/img-click.php?idzone=2172423" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2172423&output=img&type=300x250" width="300" height="250"></a></noscript></div>
+<!--<div style="width: 300px;float:left;margin-left: 5px"><script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_34954.ads"></script></div>-->
+</div>
+</div>
+<div class="vung_doc">
+<img src="http://2.bp.blogspot.com/-br9qiuTZnzI/UIqYTkCtrCI/AAAAAAAABKs/57UI2qgw7sY/Chapter%252520001-000.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 1 - Mangak.info" title="Onepunch-Man chap 1 Trang 1 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-CeGlVZMekwA/UIqYWEMiaqI/AAAAAAAABK0/E6KTTiEX1WA/Chapter%252520001-001.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 2 - Mangak.info" title="Onepunch-Man chap 1 Trang 2 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-bNqySLgKALw/UIqYZq6SW-I/AAAAAAAABLA/jTFbsRsPWws/Chapter%252520001-002.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 3 - Mangak.info" title="Onepunch-Man chap 1 Trang 3 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-p8Ruytrj1-M/UIqYazmUkII/AAAAAAAABLI/t0Lw3fmDAIc/Chapter%252520001-003.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 4 - Mangak.info" title="Onepunch-Man chap 1 Trang 4 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-zNaZvpFo2mI/UIqYc5zphLI/AAAAAAAABLY/65My6q5l7Q0/Chapter%252520001-004.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 5 - Mangak.info" title="Onepunch-Man chap 1 Trang 5 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-h_cDmNKPPHA/UIqYepFDXrI/AAAAAAAABLg/pzk8rdQ2XPg/Chapter%252520001-005.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 6 - Mangak.info" title="Onepunch-Man chap 1 Trang 6 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/--Rkmgy0pKAI/UIqYgYvHMEI/AAAAAAAABLo/gFP_KHmKd88/Chapter%252520001-006.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 7 - Mangak.info" title="Onepunch-Man chap 1 Trang 7 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-Mt5YsHC8LjE/UIqYiGRmidI/AAAAAAAABLw/AfkT0Djzg2g/Chapter%252520001-007.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 8 - Mangak.info" title="Onepunch-Man chap 1 Trang 8 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-xpFt0BWBofQ/UIqYjdwMv8I/AAAAAAAABL4/ENA7lDsGo0o/Chapter%252520001-008.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 9 - Mangak.info" title="Onepunch-Man chap 1 Trang 9 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-c1n0Kbq-sms/UIqYlO9rr6I/AAAAAAAABMA/yO_uIUWQ4EQ/Chapter%252520001-009.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 10 - Mangak.info" title="Onepunch-Man chap 1 Trang 10 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-VW6BK5A2GTs/UIqYmckkllI/AAAAAAAABMI/rEwDFaifbI0/Chapter%252520001-010.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 11 - Mangak.info" title="Onepunch-Man chap 1 Trang 11 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-gOcbYlTdSTQ/UIqYoX9K11I/AAAAAAAABMQ/HL2vhzVctE0/Chapter%252520001-011.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 12 - Mangak.info" title="Onepunch-Man chap 1 Trang 12 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-2oX1qWbqKTc/UIqYqAfdzEI/AAAAAAAABMY/Oh5SBjYrv5k/Chapter%252520001-012.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 13 - Mangak.info" title="Onepunch-Man chap 1 Trang 13 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-xN-hL4je2OY/UIqYrk5NNKI/AAAAAAAABMg/DDxOuVTU6d4/Chapter%252520001-013.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 14 - Mangak.info" title="Onepunch-Man chap 1 Trang 14 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-TMgRoJG5_Tg/UIqYtJiJ3fI/AAAAAAAABMo/kyZdcsm6DQk/Chapter%252520001-014.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 15 - Mangak.info" title="Onepunch-Man chap 1 Trang 15 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-2In6iYMvj8Q/UIqYvNgMKTI/AAAAAAAABMw/BLImw1O2fVY/Chapter%252520001-015.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 16 - Mangak.info" title="Onepunch-Man chap 1 Trang 16 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-Yf2_NA3pUR8/UIqYxHNpEmI/AAAAAAAABM4/fHSVY46ZKZo/Chapter%252520001-016.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 17 - Mangak.info" title="Onepunch-Man chap 1 Trang 17 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-HmgBPbGliQs/UIqYymBj37I/AAAAAAAABNA/LyrxMjptu5c/Chapter%252520001-017.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 18 - Mangak.info" title="Onepunch-Man chap 1 Trang 18 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-2mqr2oBT1IQ/UIqY0i6Q0KI/AAAAAAAABNI/WTdsS5waMLQ/Chapter%252520001-018.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 19 - Mangak.info" title="Onepunch-Man chap 1 Trang 19 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-2ddH0qQAUSs/UIqY2KEmGyI/AAAAAAAABNU/mnIp3WL-FxQ/Chapter%252520001-019.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 20 - Mangak.info" title="Onepunch-Man chap 1 Trang 20 - Mangak.info" />
+<img src="http://2.bp.blogspot.com/-YO8KZjAaRIM/UIqY337QCPI/AAAAAAAABNg/YYx5jlNfCqk/Chapter%252520001-020.jpeg?imgmax=2000" alt="Onepunch-Man chap 1 Trang 21 - Mangak.info" title="Onepunch-Man chap 1 Trang 21 - Mangak.info" />
+</div>
+</div>
+<div class="wrap-ads" style="margin-top:10px;margin-bottom: 10px;text-align: center">
+<div class="ads-under" style="max-width:610px;margin:0 auto 5px;overflow: hidden;">
+<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_34954.ads"></script>
+<!--<div style="width: 300px;float:left"><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_27647.ads"></script></div>
+<div style="width: 300px;float:left;margin-left: 5px"><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_27649.ads"></script></div>-->
+</div>
+</div>
+<div class="breadcrumb breadcrumbs breadcrumbs_doc"><!-- breadcrumb -->
+<div class="rdfa-breadcrumb">
+<div xmlns:v="http://rdf.data-vocabulary.org/#">
+<p>
+<span class="breadcrumbs-title"></span>
+<span typeof="v:Breadcrumb">
+<a rel="v:url" property="v:title" href="http://mangak.info" title="Truyện tranh" class="home">Truyện tranh</a>
+</span>
+<span class="separator">»</span>
+<span typeof="v:Breadcrumb">
+<a rel="v:url" property="v:title" href="http://mangak.info/onepunch-man-r/" class="home">Onepunch-Man</a>
+</span>
+<span class="separator">»</span>
+<span typeof="v:Breadcrumb">
+<span property="v:title">Onepunch-Man chap 1</span>
+</span>
+</p>
+</div>
+</div>
+</div><!-- end breadcrumb -->
+<div class="menu_doc" id="load">
+<select class="select-chapter">
+<option value="http://mangak.info/onepunch-man-chap-114-5/">Onepunch-Man chap 114.5</option>
+<option value="http://mangak.info/onepunch-man-chap-114/">Onepunch-Man chap 114</option>
+<option value="http://mangak.info/onepunch-man-chap-113-1/">Onepunch-Man chap 113.1</option>
+<option value="http://mangak.info/onepunch-man-chap-113/">Onepunch-Man chap 113</option>
+<option value="http://mangak.info/onepunch-man-chap-112/">Onepunch-Man chap 112</option>
+<option value="http://mangak.info/onepunch-man-chap-111-5/">Onepunch-Man chap 111.5</option>
+<option value="http://mangak.info/onepunch-man-chap-111/">Onepunch-Man chap 111</option>
+<option value="http://mangak.info/onepunch-man-chap-110/">Onepunch-Man chap 110</option>
+<option value="http://mangak.info/onepunch-man-chap-109/">Onepunch-Man chap 109</option>
+<option value="http://mangak.info/onepunch-man-chap-108/">Onepunch-Man chap 108</option>
+<option value="http://mangak.info/onepunch-man-chap-107-extra/">Onepunch-Man chap 107.extra</option>
+<option value="http://mangak.info/onepunch-man-chap-107-1/">Onepunch-Man chap 107.1</option>
+<option value="http://mangak.info/onepunch-man-chap-107/">Onepunch-Man chap 107</option>
+<option value="http://mangak.info/onepunch-man-chap-106/">Onepunch-Man chap 106</option>
+<option value="http://mangak.info/onepunch-man-chap-105-1/">Onepunch-Man chap 105.1</option>
+<option value="http://mangak.info/onepunch-man-chap-105/">Onepunch-Man chap 105</option>
+<option value="http://mangak.info/onepunch-man-chap-104/">Onepunch-Man chap 104</option>
+<option value="http://mangak.info/onepunch-man-chap-103/">Onepunch-Man chap 103</option>
+<option value="http://mangak.info/onepunch-man-chap-102/">Onepunch-Man chap 102</option>
+<option value="http://mangak.info/onepunch-man-chap-101-doujin/">Onepunch-Man chap 101.doujin</option>
+<option value="http://mangak.info/onepunch-man-chap-101/">Onepunch-Man chap 101</option>
+<option value="http://mangak.info/onepunch-man-chap-100/">Onepunch-Man chap 100</option>
+<option value="http://mangak.info/onepunch-man-chap-99/">Onepunch-Man chap 99</option>
+<option value="http://mangak.info/onepunch-man-chap-98/">Onepunch-Man chap 98</option>
+<option value="http://mangak.info/onepunch-man-chap-97-5/">Onepunch-Man chap 97.5</option>
+<option value="http://mangak.info/onepunch-man-chap-97/">Onepunch-Man chap 97</option>
+<option value="http://mangak.info/onepunch-man-chap-96/">Onepunch-Man chap 96</option>
+<option value="http://mangak.info/onepunch-man-chap-95/">Onepunch-Man chap 95</option>
+<option value="http://mangak.info/onepunch-man-chap-94/">Onepunch-Man chap 94</option>
+<option value="http://mangak.info/onepunch-man-chap-93-5/">Onepunch-Man chap 93.5</option>
+<option value="http://mangak.info/onepunch-man-chap-93/">Onepunch-Man chap 93</option>
+<option value="http://mangak.info/onepunch-man-chap-92/">Onepunch-Man chap 92</option>
+<option value="http://mangak.info/onepunch-man-chap-91/">Onepunch-Man chap 91</option>
+<option value="http://mangak.info/onepunch-man-chap-90-special/">Onepunch-Man chap 90.Special</option>
+<option value="http://mangak.info/onepunch-man-chap-90/">Onepunch-Man chap 90</option>
+<option value="http://mangak.info/onepunch-man-chap-89/">Onepunch-Man chap 89</option>
+<option value="http://mangak.info/onepunch-man-chap-88/">Onepunch-Man chap 88</option>
+<option value="http://mangak.info/onepunch-man-chap-87/">Onepunch-Man chap 87</option>
+<option value="http://mangak.info/onepunch-man-chap-86/">Onepunch-Man chap 86</option>
+<option value="http://mangak.info/onepunch-man-chap-85-5/">Onepunch-Man chap 85.5</option>
+<option value="http://mangak.info/onepunch-man-chap-85/">Onepunch-Man chap 85</option>
+<option value="http://mangak.info/onepunch-man-chap-84/">Onepunch-Man chap 84</option>
+<option value="http://mangak.info/onepunch-man-chap-83/">Onepunch-Man chap 83</option>
+<option value="http://mangak.info/onepunch-man-chap-82/">Onepunch-Man chap 82</option>
+<option value="http://mangak.info/onepunch-man-chap-81-5/">Onepunch-Man chap 81.5</option>
+<option value="http://mangak.info/onepunch-man-chap-81/">Onepunch-Man chap 81</option>
+<option value="http://mangak.info/onepunch-man-chap-80/">Onepunch-Man chap 80</option>
+<option value="http://mangak.info/onepunch-man-chap-79-5/">Onepunch-Man chap 79.5</option>
+<option value="http://mangak.info/onepunch-man-chap-79/">Onepunch-Man chap 79</option>
+<option value="http://mangak.info/onepunch-man-chap-78-5/">Onepunch-Man chap 78.5</option>
+<option value="http://mangak.info/onepunch-man-chap-77-6/">Onepunch-Man chap 77.6</option>
+<option value="http://mangak.info/onepunch-man-chap-77-5/">Onepunch-Man chap 77.5</option>
+<option value="http://mangak.info/onepunch-man-chap-77/">Onepunch-Man chap 77</option>
+<option value="http://mangak.info/onepunch-man-chap-76/">Onepunch-Man chap 76</option>
+<option value="http://mangak.info/onepunch-man-chap-75/">Onepunch-Man chap 75</option>
+<option value="http://mangak.info/onepunch-man-chap-74/">Onepunch-Man chap 74</option>
+<option value="http://mangak.info/onepunch-man-chap-73/">Onepunch-Man chap 73</option>
+<option value="http://mangak.info/onepunch-man-chap-72/">Onepunch-Man chap 72</option>
+<option value="http://mangak.info/onepunch-man-chap-71-5/">Onepunch-Man chap 71.5</option>
+<option value="http://mangak.info/onepunch-man-chap-71/">Onepunch-Man chap 71</option>
+<option value="http://mangak.info/onepunch-man-chap-70/">Onepunch-Man chap 70</option>
+<option value="http://mangak.info/onepunch-man-chap-69/">Onepunch-Man chap 69</option>
+<option value="http://mangak.info/onepunch-man-chap-68/">Onepunch-Man chap 68</option>
+<option value="http://mangak.info/onepunch-man-chap-67-ver-2/">Onepunch-Man chap 67.Ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-67-2/">Onepunch-Man chap 67.2</option>
+<option value="http://mangak.info/onepunch-man-chap-67/">Onepunch-Man chap 67</option>
+<option value="http://mangak.info/onepunch-man-chap-66-6/">Onepunch-Man chap 66.6</option>
+<option value="http://mangak.info/onepunch-man-chap-66-5/">Onepunch-Man chap 66.5</option>
+<option value="http://mangak.info/onepunch-man-chap-66/">Onepunch-Man chap 66</option>
+<option value="http://mangak.info/onepunch-man-chap-65/">Onepunch-Man chap 65</option>
+<option value="http://mangak.info/onepunch-man-chap-64/">Onepunch-Man chap 64</option>
+<option value="http://mangak.info/onepunch-man-chap-63/">Onepunch-Man chap 63</option>
+<option value="http://mangak.info/onepunch-man-chap-62/">Onepunch-Man chap 62</option>
+<option value="http://mangak.info/onepunch-man-chap-61/">Onepunch-Man chap 61</option>
+<option value="http://mangak.info/onepunch-man-chap-60/">Onepunch-Man chap 60</option>
+<option value="http://mangak.info/onepunch-man-chap-59/">Onepunch-Man chap 59</option>
+<option value="http://mangak.info/onepunch-man-chap-58/">Onepunch-Man chap 58</option>
+<option value="http://mangak.info/onepunch-man-chap-57/">Onepunch-Man chap 57</option>
+<option value="http://mangak.info/onepunch-man-chap-56-5/">Onepunch-Man chap 56.5</option>
+<option value="http://mangak.info/onepunch-man-chap-56/">Onepunch-Man chap 56</option>
+<option value="http://mangak.info/onepunch-man-chap-55/">Onepunch-Man chap 55</option>
+<option value="http://mangak.info/onepunch-man-chap-54/">Onepunch-Man chap 54</option>
+<option value="http://mangak.info/onepunch-man-chap-53-5/">Onepunch-Man chap 53.5</option>
+<option value="http://mangak.info/onepunch-man-chap-53/">Onepunch-Man chap 53</option>
+<option value="http://mangak.info/onepunch-man-chap-52/">Onepunch-Man chap 52</option>
+<option value="http://mangak.info/onepunch-man-chap-51/">Onepunch-Man chap 51</option>
+<option value="http://mangak.info/onepunch-man-chap-50/">Onepunch-Man chap 50</option>
+<option value="http://mangak.info/onepunch-man-chap-49-ver-2/">Onepunch-Man chap 49.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-49/">Onepunch-Man chap 49</option>
+<option value="http://mangak.info/onepunch-man-chap-48-5/">Onepunch-Man chap 48.5</option>
+<option value="http://mangak.info/onepunch-man-chap-48/">Onepunch-Man chap 48</option>
+<option value="http://mangak.info/onepunch-man-chap-47-ver-2/">Onepunch-Man chap 47.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-47-5/">Onepunch-Man chap 47.5</option>
+<option value="http://mangak.info/onepunch-man-chap-47/">Onepunch-Man chap 47</option>
+<option value="http://mangak.info/onepunch-man-chap-46-ver-2/">Onepunch-Man chap 46.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-46-5/">Onepunch-Man chap 46.5</option>
+<option value="http://mangak.info/onepunch-man-chap-46/">Onepunch-Man chap 46</option>
+<option value="http://mangak.info/onepunch-man-chap-45-ver-2/">Onepunch-Man chap 45.Ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-45/">Onepunch-Man chap 45</option>
+<option value="http://mangak.info/onepunch-man-chap-44/">Onepunch-Man chap 44</option>
+<option value="http://mangak.info/onepunch-man-chap-43/">Onepunch-Man chap 43</option>
+<option value="http://mangak.info/onepunch-man-chap-42/">Onepunch-Man chap 42</option>
+<option value="http://mangak.info/onepunch-man-chap-41-ver-3/">Onepunch-Man chap 41.ver 3</option>
+<option value="http://mangak.info/onepunch-man-chap-41-ver-2/">Onepunch-Man chap 41.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-41/">Onepunch-Man chap 41</option>
+<option value="http://mangak.info/onepunch-man-chap-40/">Onepunch-Man chap 40</option>
+<option value="http://mangak.info/onepunch-man-chap-39/">Onepunch-Man chap 39</option>
+<option value="http://mangak.info/onepunch-man-chap-38-ver-2/">Onepunch-Man chap 38.ver 2</option>
+<option value="http://mangak.info/onepunch-man-chap-38-5/">Onepunch-Man chap 38.5</option>
+<option value="http://mangak.info/onepunch-man-chap-38/">Onepunch-Man chap 38</option>
+<option value="http://mangak.info/onepunch-man-chap-37/">Onepunch-Man chap 37</option>
+<option value="http://mangak.info/onepunch-man-chap-36-5/">Onepunch-Man chap 36.5</option>
+<option value="http://mangak.info/onepunch-man-chap-36/">Onepunch-Man chap 36</option>
+<option value="http://mangak.info/onepunch-man-chap-35-5/">Onepunch-Man chap 35.5</option>
+<option value="http://mangak.info/onepunch-man-chap-35-1/">Onepunch-Man chap 35.1</option>
+<option value="http://mangak.info/onepunch-man-chap-35/">Onepunch-Man chap 35</option>
+<option value="http://mangak.info/onepunch-man-chap-34/">Onepunch-Man chap 34</option>
+<option value="http://mangak.info/onepunch-man-chap-33/">Onepunch-Man chap 33</option>
+<option value="http://mangak.info/onepunch-man-chap-32/">Onepunch-Man chap 32</option>
+<option value="http://mangak.info/onepunch-man-chap-31/">Onepunch-Man chap 31</option>
+<option value="http://mangak.info/onepunch-man-chap-30/">Onepunch-Man chap 30</option>
+<option value="http://mangak.info/onepunch-man-chap-29/">Onepunch-Man chap 29</option>
+<option value="http://mangak.info/onepunch-man-chap-28/">Onepunch-Man chap 28</option>
+<option value="http://mangak.info/onepunch-man-chap-27/">Onepunch-Man chap 27</option>
+<option value="http://mangak.info/onepunch-man-chap-26/">Onepunch-Man chap 26</option>
+<option value="http://mangak.info/onepunch-man-chap-25/">Onepunch-Man chap 25</option>
+<option value="http://mangak.info/onepunch-man-chap-24/">Onepunch-Man chap 24</option>
+<option value="http://mangak.info/onepunch-man-chap-23-5/">Onepunch-Man chap 23.5</option>
+<option value="http://mangak.info/onepunch-man-chap-23/">Onepunch-Man chap 23</option>
+<option value="http://mangak.info/onepunch-man-chap-22-7/">Onepunch-Man chap 22.7</option>
+<option value="http://mangak.info/onepunch-man-chap-22-5/">Onepunch-Man chap 22.5</option>
+<option value="http://mangak.info/onepunch-man-chap-22/">Onepunch-Man chap 22</option>
+<option value="http://mangak.info/onepunch-man-chap-21/">Onepunch-Man chap 21</option>
+<option value="http://mangak.info/onepunch-man-chap-20/">Onepunch-Man chap 20</option>
+<option value="http://mangak.info/onepunch-man-chap-19/">Onepunch-Man chap 19</option>
+<option value="http://mangak.info/onepunch-man-chap-18-5/">Onepunch-Man chap 18.5</option>
+<option value="http://mangak.info/Onepunch-Man-chap-18/">Onepunch-Man chap 18</option>
+<option value="http://mangak.info/Onepunch-Man-chap-17/">Onepunch-Man chap 17</option>
+<option value="http://mangak.info/Onepunch-Man-chap-16/">Onepunch-Man chap 16</option>
+<option value="http://mangak.info/Onepunch-Man-chap-15/">Onepunch-Man chap 15</option>
+<option value="http://mangak.info/Onepunch-Man-chap-14/">Onepunch-Man chap 14</option>
+<option value="http://mangak.info/Onepunch-Man-chap-13/">Onepunch-Man chap 13</option>
+<option value="http://mangak.info/Onepunch-Man-chap-12/">Onepunch-Man chap 12</option>
+<option value="http://mangak.info/Onepunch-Man-chap-11/">Onepunch-Man chap 11</option>
+<option value="http://mangak.info/Onepunch-Man-chap-10/">Onepunch-Man chap 10</option>
+<option value="http://mangak.info/Onepunch-Man-chap-9/">Onepunch-Man chap 9</option>
+<option value="http://mangak.info/Onepunch-Man-chap-8/">Onepunch-Man chap 8</option>
+<option value="http://mangak.info/Onepunch-Man-chap-7/">Onepunch-Man chap 7</option>
+<option value="http://mangak.info/onepunch-man-chap-6/">Onepunch-Man chap 6</option>
+<option value="http://mangak.info/onepunch-man-chap-5/">Onepunch-Man chap 5</option>
+<option value="http://mangak.info/Onepunch-Man-chap-4/">Onepunch-Man chap 4</option>
+<option value="http://mangak.info/Onepunch-Man-chap-3/">Onepunch-Man chap 3</option>
+<option value="http://mangak.info/Onepunch-Man-chap-2/">Onepunch-Man chap 2</option>
+<option value="http://mangak.info/onepunch-man-chap-1/">Onepunch-Man chap 1</option>
+</select>
+<div>
+<a rel="nofollow" class="btn_theodoi btn_doc" href="http://mangak.info/Onepunch-Man-chap-2/" title="Onepunch-Man chap 2">Chap tiếp theo</a>
+<span class="btn_theodoi btn_doc bao_loi my_popup_open">Báo lỗi</span>
+</div>
+</div>
+<div class="lem_bem">
+<p class="entry-meta">Đăng Bởi <span class="vcard author"><span class="fn"><a href="http://mangak.info/author/admin/" title="Posts by Thợ sửa ống nước" rel="author">Thợ sửa ống nước</a></span></span><span class="date updated">26/08/2014</span></p>
+<p>Mọi Người click like và comment nhiệt tình để ủng hộ Mangak.info cũng như nhóm dịch nhé</p>
+<img src="http://mangak.info/wp-content/themes/manga/images/like.png" alt="Like" title="Like">
+<ul class="social-chap">
+<li><div class="fb-like" data-href="http://mangak.info/onepunch-man-chap-1/" data-width="800" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></li>
+<li><div class="google"><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="medium"></g:plusone></div></li>
+<!--<li class="like-fp"><div class="fb-like" data-href="https://www.facebook.com/mangak.net" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div></li>-->
+</ul>
+<div class="tags_chapter">
+<ul class="chap-lienquan">
+<li><span>Chapter liên quan: </span></li>
+<li><a class="fix-right fix-chap" href="http://mangak.info/Onepunch-Man-chap-2/" title="Onepunch-Man chap 2">Onepunch-Man chap 2</a></li>
+<li><a href="http://mangak.info/Onepunch-Man-chap-3/" title="Onepunch-Man chap 3">Onepunch-Man chap 3</a></li>
+</ul>
+</div>
+<span id="post-ratings-939" class="post-ratings" data-nonce="ae7f8922b3"><span class="rate">Đánh giá truyện:</span> <img id="rating_939_1" src="http://mangak.info/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="1" title="1" onmouseover="current_rating(939, 1, '1');" onmouseout="ratings_off(4.6, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_939_2" src="http://mangak.info/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="2" title="2" onmouseover="current_rating(939, 2, '2');" onmouseout="ratings_off(4.6, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_939_3" src="http://mangak.info/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="3" title="3" onmouseover="current_rating(939, 3, '3');" onmouseout="ratings_off(4.6, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_939_4" src="http://mangak.info/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="4" title="4" onmouseover="current_rating(939, 4, '4');" onmouseout="ratings_off(4.6, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_939_5" src="http://mangak.info/wp-content/plugins/wp-postratings/images/stars/rating_half.gif" alt="5" title="5" onmouseover="current_rating(939, 5, '5');" onmouseout="ratings_off(4.6, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /> <i><span class="post-ratings-text" id="ratings_939_text"></span></i>
+<p style="text-transform:none;color:gray;line-height:1.5" class="rate-manga"><span xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review-aggregate"><span property="v:itemreviewed">Mangak.net</span><span rel="v:rating"><span typeof="v:Rating">Xếp hạng: <span property="v:average">4.58</span>/<span property="v:best">5</span></span></span> - <span property="v:votes">530</span> Lượt đánh giá</span></p></span><div class="hidden-xs">
+<p>Bạn đang đọc <strong>Onepunch-Man chap 1</strong> tại website <a href="http://mangak.info" title="Truyện tranh online">truyen tranh online</a> tiếng việt Mangak.info. Trong quá trình đọc truyện bạn có thể sử dụng chức năng theo dõi truyện để lưu lại những bộ truyện yêu thích (chỉ dành cho thành viên đã đăng nhập) ,chức năng báo lỗi nếu chapter bị hỏng để ban quản trị fix chapter nhanh nhất. Nếu bạn tham gia thảo luận sau khi đọc truyện, xin vui lòng không chửi bới, xúc phạm người khác, nhóm dịch hoặc hối chapter mới nhé.</p>
+</div>
+</div>
+</div>
+<div class="wrap-ads" style="background: #fff;text-align: center;padding-top: 2px">
+<div class="ads">
+<div style="width: 980px;margin: 0 auto"><div id="SC_TBlock_242406" class="SC_TBlock">loading...</div></div>
+<script type="text/javascript">var SC_CId = "242406",SC_Domain="n.ads2-adnow.com";SC_Start_242406=(new Date).getTime();</script>
+<script type="text/javascript" src="//st-n.ads2-adnow.com/js/adv_out.js"></script>
+<!--<div style="width: 980px;margin: 0 auto"><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_21546.ads"></script></div>-->
+</div>
+</div>
+<div class="cmt_doc">
+<div class="fb-comments" data-href="http://mangak.info/onepunch-man-chap-1/" data-width="1130" data-numposts="15" data-colorscheme="light"></div>
+</div>
+<div class="new_update_trangdoc">
+<div class="wrap_update tab_anh_dep danh_sach">
+<h4>Truyện khác mới cập nhật</h4>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/gion-no-tsugai/" title="Gion no Tsugai"><img width="90" height="127" src="http://mangak.info/wp-content/uploads/2015/04/Gion-no-Tsugai-90x127.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2015/04/Gion-no-Tsugai-90x127.jpg 90w, http://mangak.info/wp-content/uploads/2015/04/Gion-no-Tsugai-177x250.jpg 177w, http://mangak.info/wp-content/uploads/2015/04/Gion-no-Tsugai.jpg 400w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/gion-no-tsugai/" title="Gion no Tsugai">Gion no Tsugai</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/comedy/" title="Comedy" rel="nofollow">Comedy</a>
+<a href="http://mangak.info/ecchi/" title="Ecchi" rel="nofollow">Ecchi</a>
+<a href="http://mangak.info/harem/" title="Harem" rel="nofollow">Harem</a>
+<a href="http://mangak.info/romance/" title="Romance" rel="nofollow">Romance</a>
+<a href="http://mangak.info/seinen/" title="Seinen" rel="nofollow">Seinen</a>
+<a href="http://mangak.info/supernatural/" title="Supernatural" rel="nofollow">Supernatural</a>
+</div>
+        <a href="http://mangak.info/gion-no-tsugai-chap-16/" title="Gion no Tsugai chap 16" class="chapter">Gion no Tsugai chap 16</a>
+        <span>Lượt xem : 7,058</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/your-name-ten-cau-la-gi/" title="Your Name &#8211; Tên cậu là gì ?"><img width="90" height="127" src="http://mangak.info/wp-content/uploads/2017/02/your-name-90x127.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2017/02/your-name-90x127.jpg 90w, http://mangak.info/wp-content/uploads/2017/02/your-name-177x250.jpg 177w, http://mangak.info/wp-content/uploads/2017/02/your-name.jpg 318w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/your-name-ten-cau-la-gi/" title="Your Name &#8211; Tên cậu là gì ?">Your Name &#8211; Tên cậu là gì ?</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/drama/" title="Drama" rel="nofollow">Drama</a>
+<a href="http://mangak.info/romance/" title="Romance" rel="nofollow">Romance</a>
+<a href="http://mangak.info/school-life/" title="School life" rel="nofollow">School life</a>
+<a href="http://mangak.info/slice-of-life/" title="Slice of life" rel="nofollow">Slice of life</a>
+<a href="http://mangak.info/supernatural/" title="Supernatural" rel="nofollow">Supernatural</a>
+</div>
+        <a href="http://mangak.info/your-name-ten-cau-la-gi-chap-2/" title="Your Name – Tên cậu là gì ? chap 2" class="chapter">Your Name – Tên cậu là gì ? chap 2</a>
+        <span>Lượt xem : 7,591</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/rough-sketch-senpai/" title="Rough Sketch Senpai"><img width="90" height="123" src="http://mangak.info/wp-content/uploads/2017/02/rough-sketch-senpai-90x123.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2017/02/rough-sketch-senpai-90x123.jpg 90w, http://mangak.info/wp-content/uploads/2017/02/rough-sketch-senpai-182x250.jpg 182w, http://mangak.info/wp-content/uploads/2017/02/rough-sketch-senpai.jpg 250w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/rough-sketch-senpai/" title="Rough Sketch Senpai">Rough Sketch Senpai</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/comedy/" title="Comedy" rel="nofollow">Comedy</a>
+<a href="http://mangak.info/romance/" title="Romance" rel="nofollow">Romance</a>
+<a href="http://mangak.info/school-life/" title="School life" rel="nofollow">School life</a>
+<a href="http://mangak.info/slice-of-life/" title="Slice of life" rel="nofollow">Slice of life</a>
+</div>
+        <a href="http://mangak.info/?post_type=chapter&p=137000" title="Rough Sketch Senpai chap 12" class="chapter">Rough Sketch Senpai chap 12</a>
+        <span>Lượt xem : 11,284</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/mahou-shoujo-of-the-end/" title="Mahou Shoujo Of The End"><img width="90" height="130" src="http://mangak.info/wp-content/uploads/2014/08/Mahou-Shoujo-Of-The-End-90x130.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2014/08/Mahou-Shoujo-Of-The-End-90x130.jpg 90w, http://mangak.info/wp-content/uploads/2014/08/Mahou-Shoujo-Of-The-End-172x250.jpg 172w, http://mangak.info/wp-content/uploads/2014/08/Mahou-Shoujo-Of-The-End.jpg 400w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/mahou-shoujo-of-the-end/" title="Mahou Shoujo Of The End">Mahou Shoujo Of The End</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/adult/" title="Adult" rel="nofollow">Adult</a>
+<a href="http://mangak.info/adventure/" title="Adventure" rel="nofollow">Adventure</a>
+<a href="http://mangak.info/horror/" title="Horror" rel="nofollow">Horror</a>
+<a href="http://mangak.info/mystery/" title="Mystery" rel="nofollow">Mystery</a>
+<a href="http://mangak.info/school-life/" title="School life" rel="nofollow">School life</a>
+<a href="http://mangak.info/sci-fi/" title="Sci fi" rel="nofollow">Sci fi</a>
+<a href="http://mangak.info/shounen/" title="Shounen" rel="nofollow">Shounen</a>
+</div>
+        <a href="http://mangak.info/mahou-shoujo-of-the-end-chap-29/" title="Mahou Shoujo Of The End chap 29" class="chapter">Mahou Shoujo Of The End chap 29</a>
+        <span>Lượt xem : 9,597</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/servamp/" title="Servamp"><img width="90" height="128" src="http://mangak.info/wp-content/uploads/2016/02/Servamp-90x128.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2016/02/Servamp-90x128.jpg 90w, http://mangak.info/wp-content/uploads/2016/02/Servamp-175x250.jpg 175w, http://mangak.info/wp-content/uploads/2016/02/Servamp.jpg 320w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/servamp/" title="Servamp">Servamp</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/comedy/" title="Comedy" rel="nofollow">Comedy</a>
+<a href="http://mangak.info/drama/" title="Drama" rel="nofollow">Drama</a>
+<a href="http://mangak.info/fantasy/" title="Fantasy" rel="nofollow">Fantasy</a>
+<a href="http://mangak.info/josei/" title="Josei" rel="nofollow">Josei</a>
+<a href="http://mangak.info/supernatural/" title="Supernatural" rel="nofollow">Supernatural</a>
+</div>
+        <a href="http://mangak.info/servamp-chap-21/" title="Servamp chap 21" class="chapter">Servamp chap 21</a>
+        <span>Lượt xem : 43,091</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/karate-shoukoushi-kohinata-minoru/" title="Karate Shoukoushi Kohinata Minoru"><img width="90" height="128" src="http://mangak.info/wp-content/uploads/2014/03/Karate-Shoukoushi-Kohinata-Minoru-90x128.jpg" class="attachment-medium size-medium wp-post-image" alt="Karate Shoukoushi Kohinata Minoru" srcset="http://mangak.info/wp-content/uploads/2014/03/Karate-Shoukoushi-Kohinata-Minoru-90x128.jpg 90w, http://mangak.info/wp-content/uploads/2014/03/Karate-Shoukoushi-Kohinata-Minoru-175x250.jpg 175w, http://mangak.info/wp-content/uploads/2014/03/Karate-Shoukoushi-Kohinata-Minoru.jpg 300w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/karate-shoukoushi-kohinata-minoru/" title="Karate Shoukoushi Kohinata Minoru">Karate Shoukoushi Kohinata Minoru</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/comedy/" title="Comedy" rel="nofollow">Comedy</a>
+<a href="http://mangak.info/martial-arts/" title="Martial arts" rel="nofollow">Martial arts</a>
+<a href="http://mangak.info/school-life/" title="School life" rel="nofollow">School life</a>
+<a href="http://mangak.info/seinen/" title="Seinen" rel="nofollow">Seinen</a>
+<a href="http://mangak.info/sports/" title="Sports" rel="nofollow">Sports</a>
+</div>
+        <a href="http://mangak.info/karate-shoukoushi-kohinata-minoru-chap-305/" title="Karate Shoukoushi Kohinata Minoru chap 305" class="chapter">Karate Shoukoushi Kohinata Minoru chap 305</a>
+        <span>Lượt xem : 130,817</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/kokou-no-hito/" title="Kokou No Hito"><img width="87" height="130" src="http://mangak.info/wp-content/uploads/2014/08/Kokou-No-Hito-87x130.jpg" class="attachment-medium size-medium wp-post-image" alt="Kokou No Hito" srcset="http://mangak.info/wp-content/uploads/2014/08/Kokou-No-Hito-87x130.jpg 87w, http://mangak.info/wp-content/uploads/2014/08/Kokou-No-Hito-167x250.jpg 167w, http://mangak.info/wp-content/uploads/2014/08/Kokou-No-Hito.jpg 688w" sizes="(max-width: 87px) 100vw, 87px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/kokou-no-hito/" title="Kokou No Hito">Kokou No Hito</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/adult/" title="Adult" rel="nofollow">Adult</a>
+<a href="http://mangak.info/adventure/" title="Adventure" rel="nofollow">Adventure</a>
+<a href="http://mangak.info/drama/" title="Drama" rel="nofollow">Drama</a>
+<a href="http://mangak.info/mystery/" title="Mystery" rel="nofollow">Mystery</a>
+<a href="http://mangak.info/shounen/" title="Shounen" rel="nofollow">Shounen</a>
+<a href="http://mangak.info/sports/" title="Sports" rel="nofollow">Sports</a>
+<a href="http://mangak.info/tragedy/" title="Tragedy" rel="nofollow">Tragedy</a>
+</div>
+        <a href="http://mangak.info/kokou-no-hito-chap-52/" title="Kokou No Hito chap 52" class="chapter">Kokou No Hito chap 52</a>
+        <span>Lượt xem : 34,542</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/isekai-maou-to-shoukan-shoujo-dorei-majutsu/" title="Isekai Maou to Shoukan Shoujo Dorei Majutsu"><img width="90" height="126" src="http://mangak.info/wp-content/uploads/2015/06/Isekai-Maou-to-Shoukan-Shoujo-Dorei-Majutsu-90x126.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2015/06/Isekai-Maou-to-Shoukan-Shoujo-Dorei-Majutsu-90x126.jpg 90w, http://mangak.info/wp-content/uploads/2015/06/Isekai-Maou-to-Shoukan-Shoujo-Dorei-Majutsu-178x250.jpg 178w, http://mangak.info/wp-content/uploads/2015/06/Isekai-Maou-to-Shoukan-Shoujo-Dorei-Majutsu.jpg 214w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/isekai-maou-to-shoukan-shoujo-dorei-majutsu/" title="Isekai Maou to Shoukan Shoujo Dorei Majutsu">Isekai Maou to Shoukan Shoujo Dorei Majutsu</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/adventure/" title="Adventure" rel="nofollow">Adventure</a>
+<a href="http://mangak.info/ecchi/" title="Ecchi" rel="nofollow">Ecchi</a>
+<a href="http://mangak.info/fantasy/" title="Fantasy" rel="nofollow">Fantasy</a>
+<a href="http://mangak.info/harem/" title="Harem" rel="nofollow">Harem</a>
+</div>
+        <a href="http://mangak.info/isekai-maou-to-shoukan-shoujo-dorei-majutsu-chap-36/" title="Isekai Maou to Shoukan Shoujo Dorei Majutsu chap 36" class="chapter">Isekai Maou to Shoukan Shoujo Dorei Majutsu chap 36</a>
+        <span>Lượt xem : 160,666</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/kumo-desu-ga-nani-ka/" title="Kumo Desu ga, Nani ka?"><img width="90" height="127" src="http://mangak.info/wp-content/uploads/2015/12/Kumo-Desu-ga-Nani-ka-90x127.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2015/12/Kumo-Desu-ga-Nani-ka-90x127.jpg 90w, http://mangak.info/wp-content/uploads/2015/12/Kumo-Desu-ga-Nani-ka-177x250.jpg 177w, http://mangak.info/wp-content/uploads/2015/12/Kumo-Desu-ga-Nani-ka.jpg 424w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/kumo-desu-ga-nani-ka/" title="Kumo Desu ga, Nani ka?">Kumo Desu ga, Nani ka?</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/adventure/" title="Adventure" rel="nofollow">Adventure</a>
+<a href="http://mangak.info/fantasy/" title="Fantasy" rel="nofollow">Fantasy</a>
+<a href="http://mangak.info/seinen/" title="Seinen" rel="nofollow">Seinen</a>
+</div>
+        <a href="http://mangak.info/kumo-desu-ga-nani-ka-chap-30/" title="Kumo Desu ga, Nani ka? chap 30" class="chapter">Kumo Desu ga, Nani ka? chap 30</a>
+        <span>Lượt xem : 54,517</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/nise-koi-tinh-yeu-gia-tao/" title="Nise Koi &#8211; Tình Yêu Giả Tạo full trọn bộ"><img width="90" height="127" src="http://mangak.info/wp-content/uploads/2014/03/nise-koi-90x127.jpg" class="attachment-medium size-medium wp-post-image" alt="nise-koi" srcset="http://mangak.info/wp-content/uploads/2014/03/nise-koi-90x127.jpg 90w, http://mangak.info/wp-content/uploads/2014/03/nise-koi-176x250.jpg 176w, http://mangak.info/wp-content/uploads/2014/03/nise-koi.jpg 300w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/nise-koi-tinh-yeu-gia-tao/" title="Nise Koi &#8211; Tình Yêu Giả Tạo full trọn bộ">Nise Koi &#8211; Tình Yêu Giả Tạo Full</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/comedy/" title="Comedy" rel="nofollow">Comedy</a>
+<a href="http://mangak.info/harem/" title="Harem" rel="nofollow">Harem</a>
+<a href="http://mangak.info/romance/" title="Romance" rel="nofollow">Romance</a>
+<a href="http://mangak.info/shounen/" title="Shounen" rel="nofollow">Shounen</a>
+</div>
+        <a href="http://mangak.info/nise-koi-tinh-yeu-gia-tao-chap-229-5/" title="Nise Koi – Tình Yêu Giả Tạo chap 229.5" class="chapter">Nise Koi – Tình Yêu Giả Tạo chap 229.5</a>
+        <span>Lượt xem : 320,224</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/shoma-thien-vuong-than-kiem/" title="Shoma &#8211; Thiên Vương Thần Kiếm full trọn bộ"><img width="84" height="130" src="http://mangak.info/wp-content/uploads/2014/08/shoma-thien-vuong-than-kiem-84x130.jpg" class="attachment-medium size-medium wp-post-image" alt="Shoma - Thiên Vương Thần Kiếm" srcset="http://mangak.info/wp-content/uploads/2014/08/shoma-thien-vuong-than-kiem-84x130.jpg 84w, http://mangak.info/wp-content/uploads/2014/08/shoma-thien-vuong-than-kiem-162x250.jpg 162w, http://mangak.info/wp-content/uploads/2014/08/shoma-thien-vuong-than-kiem.jpg 500w" sizes="(max-width: 84px) 100vw, 84px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/shoma-thien-vuong-than-kiem/" title="Shoma &#8211; Thiên Vương Thần Kiếm full trọn bộ">Shoma &#8211; Thiên Vương Thần Kiếm Full</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/action/" title="Action" rel="nofollow">Action</a>
+<a href="http://mangak.info/adventure/" title="Adventure" rel="nofollow">Adventure</a>
+<a href="http://mangak.info/comedy/" title="Comedy" rel="nofollow">Comedy</a>
+<a href="http://mangak.info/martial-arts/" title="Martial arts" rel="nofollow">Martial arts</a>
+<a href="http://mangak.info/sci-fi/" title="Sci fi" rel="nofollow">Sci fi</a>
+</div>
+        <a href="http://mangak.info/shoma-thien-vuong-than-kiem-chap-85/" title="Shoma – Thiên Vương Thần Kiếm chap 85" class="chapter">Shoma – Thiên Vương Thần Kiếm chap 85</a>
+        <span>Lượt xem : 11,676</span>
+</div>
+<div class="update_item">
+<a rel="nofollow" href="http://mangak.info/fukigen-cinderella/" title="Fukigen Cinderella full trọn bộ"><img width="90" height="127" src="http://mangak.info/wp-content/uploads/2015/08/Fukigen-Cinderella-90x127.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="http://mangak.info/wp-content/uploads/2015/08/Fukigen-Cinderella-90x127.png 90w, http://mangak.info/wp-content/uploads/2015/08/Fukigen-Cinderella-177x250.png 177w, http://mangak.info/wp-content/uploads/2015/08/Fukigen-Cinderella.png 462w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+<h3 class="nowrap">
+<a href="http://mangak.info/fukigen-cinderella/" title="Fukigen Cinderella full trọn bộ">Fukigen Cinderella Full</a>
+</h3>
+<div class="item2_theloai">
+<a href="http://mangak.info/gender-bender/" title="Gender Bender" rel="nofollow">Gender Bender</a>
+<a href="http://mangak.info/romance/" title="Romance" rel="nofollow">Romance</a>
+<a href="http://mangak.info/seinen/" title="Seinen" rel="nofollow">Seinen</a>
+<a href="http://mangak.info/supernatural/" title="Supernatural" rel="nofollow">Supernatural</a>
+</div>
+        <a href="http://mangak.info/fukigen-cinderella-chap-23-end/" title="Fukigen Cinderella chap 23 - End" class="chapter">Fukigen Cinderella chap 23 - End</a>
+        <span>Lượt xem : 9,993</span>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="wrap-ads" style="text-align: center;margin: 0 auto">
+<div class="ads-bottom" style="background: #fff"></div>
+</div>
+<div class="lam_nham_chapter">
+<h2>Onepunch-Man chap 1 sơ lược</h2>
+<p>Bạn đang xem <strong>Onepunch-Man chap 1</strong> là bản dịch tiếng việt của bộ Truyện tranh <a href="http://mangak.info" title="manga">manga</a> <a title="Onepunch-Man" href="http://mangak.info/onepunch-man-r/">Onepunch-Man</a> được dịch bởi (các) nhóm dịch : <a href="http://mangak.info/manga-translator/manga24h/" title="Nhóm dịch manga24h">manga24h</a>
+. Đây là một truyện hấp dẫn thuộc thể loại: <a itemprop="genre" href="http://mangak.info/action/" title="Thể loại Action">Action</a>
+<a itemprop="genre" href="http://mangak.info/comedy/" title="Thể loại Comedy">Comedy</a>
+<a itemprop="genre" href="http://mangak.info/seinen/" title="Thể loại Seinen">Seinen</a>
+<a itemprop="genre" href="http://mangak.info/supernatural/" title="Thể loại Supernatural">Supernatural</a>
+ của tác giả: <a itemprop="author" href="http://mangak.info/manga-author/murata-yuusuke/" title="Tác giả Murata Yuusuke">Murata Yuusuke</a>
+.</p>
+<p>
+Truyện này hiện đã có <span>1199065</span> lượt xem online. Bạn có thể xem bản dịch Tiếng Anh của truyện này ở Mangapark.com (search tên truyện nhé).<br>
+Mangak sẽ rất cám ơn bạn nếu bạn theo dõi và xem truyện online tại web. Bọn mình cam kết sẽ cập nhật các bộ truyện hot một cách mới nhất và nhanh nhất.
+</p>
+<p>
+Mangak.info là một trang web đọc truyện online thông minh nhất hiện tại , tự động điều chỉnh kích thước, phân bố nội dung phù hợp khi truy cập từ tất cả các thiết bị mobile, thậm chi ngay khi bạn điều chỉnh kích thước trình duyệt.Hãy trải nghiệm bằng cách truy cập mangak.info từ điện thoại hay bất cứ thiết bị cầm tay nào của bạn.
+</p>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+$('#my_popup').popup({
+transition: 'all 0.3s'
+});
+$('.my_popup_send').click(function () {
+var noidung = $('.text-err textarea').val().replace(/@|#|\$|%|\^|&|(|)|"|'|[|]/gi, '');
+if (noidung == '' || noidung.length > 300) {
+if (noidung == '')
+$('.text-err p').html('<span style="color:red">Mời bạn nhập nội dung trước khi gửi</span>');
+if (noidung.length > 300)
+$('.text-err p').html('<span style="color:red">Bạn vui lòng nhập ngắn gọn</span>');
+} else {
+$('.text-err').remove();
+$('.text-thank').show();
+jQuery.ajax({
+type: 'POST',
+data: {'action': 'error_action', 'data': {'chapter_id': 55456, 'content': noidung}},
+url: 'http://mangak.info/wp-admin/admin-ajax.php',
+success: function () {
+$('.my_popup_send').remove();
+}
+});
+}
+});
+$('.select-chapter option[value="http://mangak.info/onepunch-man-chap-1/"]').attr('selected', 'selected');
+});
+</script>
+<script>
+window.fbAsyncInit = function () {
+FB.Event.subscribe('comment.create', function (response) {
+cmt = response.message;
+url = response.href;
+time = Math.floor(new Date().getTime() / 1000);
+title = $('h1.entry-title').html();
+jQuery.ajax({
+type: 'POST',
+data: {'action': 'commenthome_action', 'data': {'content': cmt, 'time': time, 'title': title, 'url': url}},
+url: 'http://mangak.info/wp-admin/admin-ajax.php'
+});
+});
+};
+</script>
+<div id="footer">
+<div class="footer_btm">
+<div class="foot-link">
+<div class="link-group">
+<ul>
+<li><a href="http://mangak.info/one-piece-dao-hai-tac/" title="One Piece">One Piece</a></li>
+<li><a href="http://mangak.info/naruto/" title="Naruto">Naruto</a></li>
+<li><a href="http://mangak.info/bleach/" title="Bleach">Bleach</a></li>
+<li><a href="http://mangak.info/clover/" title="Clover">Clover</a></li>
+<li><a href="http://mangak.info/vua-tren-bien-coco-full-ahead/" title="Vua Trên Biển">Vua Trên Biển</a></li>
+<li><a href="http://mangak.info/than-dong-dat-viet/" title="Thần Đồng Đất Việt">Thần Đồng Đất Việt</a></li>
+</ul>
+</div>
+<div class="link-group">
+<ul>
+<li><a href="http://mangak.info/tan-tac-long-ho-mon/" title="Tân Tác Long Hổ Môn">Tân Tác Long Hổ Môn</a></li>
+<li><a href="http://mangak.info/phong-van/" title="Phong Vân">Phong Vân</a></li>
+<li><a href="http://mangak.info/nu-hoang-ai-cap-ouke-no-monshou/" title="Nữ Hoàng Ai Cập">Nữ Hoàng Ai Cập</a></li>
+<li><a href="http://mangak.info/clover/" title="Clover">Clover</a></li>
+<li><a href="http://mangak.info/noblesse/" title="Noblesse">Noblesse</a></li>
+<li><a href="http://mangak.info/cap-bai-trung-kyou-kara-ore-wa/" title="Cặp Bài Trùng">Cặp Bài Trùng</a></li>
+</ul>
+</div>
+<div class="link-group">
+<ul>
+<li><a href="http://mangak.info/area-d/" title="Area D">Area D</a></li>
+<li><a href="http://mangak.info/fuuka/" title="Fuuka">Fuuka</a></li>
+<li><a href="http://mangak.info/hiep-khach-giang-ho/" title="Hiệp Khách Giang Hồ">Hiệp Khách Giang Hồ</a></li>
+<li><a href="http://mangak.info/yakitate-vua-banh-mi/" title="Vua Bánh Mì">Vua Bánh Mì</a></li>
+<li><a href="http://mangak.info/vua-phap-thuat-shaman-king/" title="Vua Pháp Thuật">Vua Pháp Thuật</a></li>
+<li><a href="http://mangak.info/yugi-oh/" title="YuGi Oh Vua trò chơi">YuGi Oh Vua trò chơi</a></li>
+</ul>
+</div>
+<div class="link-group">
+<ul>
+<li><a href="http://mangak.info/dragon-ball-bay-vien-ngoc-rong/" title="7 Viên Ngọc Rồng">7 Viên Ngọc Rồng</a></li>
+<li><a href="http://mangak.info/gintama/" title="Gintama">Gintama</a></li>
+<li><a href="http://mangak.info/tham-tu-lung-danh-conan/" title="Conan">Conan</a></li>
+<li><a href="http://mangak.info/toriko/" title="Toriko">Toriko</a></li>
+<li><a href="http://mangak.info/fairy-tail/" title="Fairy Tail">Fairy Tail</a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="footer_top_content">
+<p>Mangak.net đọc truyện tranh online mới và truyện hay luôn cập nhật</p>
+<ul class="social-footer">
+<li><a href="http://www.dmca.com/Protection/Status.aspx?ID=49aa9557-f756-4264-9442-c01c22a0a501" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="//images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=49aa9557-f756-4264-9442-c01c22a0a501"  alt="DMCA.com Protection Status" /></a></li>
+<li><div class="fb-like" data-href="http://mangak.info/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+<li><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="medium"></g:plusone></li>
+</ul>
+<p>Liên hệ Email: <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="7a171b141d1b1154141f0e3a1d171b131654191517">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></p>
+<a style="font-size:13px" href="https://plus.google.com/104980190734374068313" rel="publisher">Thợ sửa ống nước</a>
+</div> 
+</div><!-- end footer_btm -->
+</div><!-- End footer -->
+<div id="wrap-tooltip">
+</div>
+<div id="su-footer-links" style="text-align: center;"></div><script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/mangak.info\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/mangak.info\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars","image_ext":"gif","max":"5","show_loading":"0","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="http://mangak.info/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://mangak.info/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.84'></script>
+<script type='text/javascript' src='http://mangak.info/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
+<script>
+(function(i, s, o, g, r, a, m) {
+i['GoogleAnalyticsObject'] = r;
+i[r] = i[r] || function() {
+(i[r].q = i[r].q || []).push(arguments)
+}, i[r].l = 1 * new Date();
+a = s.createElement(o),
+m = s.getElementsByTagName(o)[0];
+a.async = 1;
+a.src = g;
+m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-54124004-1', 'auto');
+ga('send', 'pageview');
+</script>
+<span class="ads-bt" style="display: block;text-align: center">
+</span>
+<!--<script type="text/javascript">
+var adchoice = document.getElementsByClassName('adchoice')[0];
+if (adchoice.getAttribute("data") == "ad-chap") {
+var uid = '39928';
+var wid = '73788';
+var ads = document.createElement('script');
+ads.src = "http://cdn.popcash.net/pop.js";
+var ads_show = document.getElementsByClassName('ads-bt')[0];
+ads_show.appendChild(ads);
+}
+</script>-->
+<script type="text/javascript">
+//ballon-right
+var date = new Date();
+var minutes = 20;
+date.setTime(date.getTime() + (minutes * 60 * 1000));
+//var r = Math.floor((Math.random() * 100) + 1);
+var right_b='<iframe width="300px" height="250px" frameborder="0" src="http://mangak.info/wp-content/themes/manga/ad/abc.html" scrolling="no"></iframe>';//'<a target="_blank" rel="nofollow" href="https://goo.gl/gkoijn"><img src="http://mangak.info/wp-content/themes/manga/ad/aothun.jpg" alt="blallon"></a>';
+//var left_b='<iframe width="300px" height="250px" scrolling="no" frameborder="0" style="overflow:hidden;" src="http://www.gamejp.info/vinh2016.html"></iframe>';//'<iframe width="300px" height="250px" frameborder="0" src="http://truyentranhmanga.com/300x250.php?r='+r+'" scrolling="no"></iframe>';
+//right
+if (!$.cookie("ballon-right")) {
+$.cookie("ballon-right", "yes", {expires: date, path: "/"});
+}
+if ($.cookie("ballon-right")=='yes') {
+$('html').append('<div class="ballon-right right" style="position: fixed;right: 0;bottom: 0;height:250px"><span class="close-ad right" style="right: 0;left: auto">X</span>'+right_b+'</div><div style="position: fixed;right: 0;bottom: 0;width: 130px;display: none"><span class="open-ad right yes" style="right: 0;left: auto">Hot Nè</span></div>');
+}else{
+$('html').append('<div style="position: fixed;right: 0;bottom: 0;width: 130px"><span class="open-ad right" style="right: 0;left: auto">Hot Nè</span></div>');
+}
+//left
+//if (!$.cookie("ballon-left")) {
+//$.cookie("ballon-left", "yes", {expires: date, path: "/"});
+//}
+//if ($.cookie("ballon-left")=='yes') {
+//$('html').append('<div class="ballon-right left" style="position: fixed;left: 0;bottom: 0;height:250px"><span class="close-ad left">X</span>'+left_b+'</div><div style="position: fixed;left: 0;bottom: 0;width: 130px;display: none"><span class="open-ad left yes">Hot Nè</span></div>');
+//}else{
+//$('html').append('<div style="position: fixed;left: 0;bottom: 0;width: 130px"><span class="open-ad left">Hot Nè</span></div>');
+//}
+//end left
+$(document).ready(function () {
+//right
+$('.close-ad.right').click(function () {
+$('.ballon-right.right').hide();
+$.cookie('ballon-right', 'no', {expires: date, path: "/"});
+$('.open-ad.right').parent().show();
+});
+$('.open-ad.right').click(function () {
+$('.open-ad.right').parent().hide();
+if ($('.open-ad.right').hasClass('yes')) {
+$('.ballon-right.right').show();
+} else {
+$('.open-ad.right').addClass('yes');
+$('#footer').append('<div class="ballon-right right" style="position: fixed;right: 0;bottom: 0"><span class="close-ad right" style="right: 0;left: auto">X</span>'+right_b+'</div>');
+$('.close-ad.right').click(function () {
+$('.ballon-right.right').hide();
+$.cookie('ballon-right', 'no', {expires: date, path: "/"});
+$('.open-ad.right').parent().show();
+});
+}
+$.cookie('ballon-right', 'yes', {expires: date, path: "/"});
+});
+//Left
+//$('.close-ad.left').click(function () {
+//$('.ballon-right.left').hide();
+//$.cookie('ballon-left', 'no', {expires: date, path: "/"});
+//$('.open-ad.left').parent().show();
+//});
+//$('.open-ad.left').click(function () {
+//$('.open-ad.left').parent().hide();
+//if ($('.open-ad.left').hasClass('yes')) {
+//$('.ballon-right.left').show();
+//} else {
+//$('.open-ad.left').addClass('yes');
+//$('#footer').append('<div class="ballon-right left" style="position: fixed;left: 0;bottom: 0"><span class="close-ad left">X</span>'+left_b+'</div>');
+//$('.close-ad.left').click(function () {
+//$('.ballon-right.left').hide();
+//$.cookie('ballon-left', 'no', {expires: date, path: "/"});
+//$('.open-ad.left').parent().show();
+//});
+//}
+//$.cookie('ballon-left', 'yes', {expires: date, path: "/"});
+//});
+//End left
+});
+</script><script type="text/javascript">
+var date_somo = new Date();
+var minutes_somo = 300;
+date_somo.setTime(date_somo.getTime() + (minutes_somo * 60 * 1000));
+if (!$.cookie("popup-somo")) {
+$.cookie("popup-somo", "yes", {expires: date_somo, path: "/"});
+}
+if ($.cookie("popup-somo")=='yes') {
+$('.wrap-body').click(function() {
+if ($.cookie("popup-somo")=='yes'){
+window.open("http://imgs.somo.vn/mak.p/sieu-pham-web-game.html");
+}
+$.cookie('popup-somo', 'no', {expires: date_somo, path: "/"});
+});
+}//else{
+//}
+</script>
+<script type="text/javascript">(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement(s);js.type = "text/javascript";js.async=false;js.id = id;js.src = "http://js.f.360cdn.vn/banner/static/js/banner-ads.js?t=" + new Date().getTime() + "&zid=30";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "ads-banner"));</script>
+</div>
+</body>
+</html>

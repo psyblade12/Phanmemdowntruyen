@@ -1,0 +1,17 @@
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\bin\Debug\Phanmemdowntruyen.exe.config
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\bin\Debug\Phanmemdowntruyen.exe
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\bin\Debug\Phanmemdowntruyen.pdb
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.csprojResolveAssemblyReference.cache
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Form1.resources
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Properties.Resources.resources
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.csproj.GenerateResource.Cache
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.exe
+c:\users\thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.pdb
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Form2.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Form3.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Main.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Form4.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.Form5.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.GioiThieuTacGia.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.FormPhienBan.resources
+C:\Users\Thuan\documents\visual studio 2015\Projects\Phanmemdowntruyen\Phanmemdowntruyen\obj\Debug\Phanmemdowntruyen.FormHuongDanSuDungcs.resources
