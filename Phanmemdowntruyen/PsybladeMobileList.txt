@@ -1,3 +1,9 @@
+! Homepage: https://github.com/psyblade12
+! Title: Psyblade's Mobile List
+! Expires: 15 days
+! Version: 1.0
+! Last modified: 31/8/2017 10:42 AM
+
 truyentranh8.net##.lazy
 news.zing.vn###highlight
 m.blogtruyen.com##input[style="position: fixed;width: 20px;height: 20px; background: #16FF16;border: 0px;"]
