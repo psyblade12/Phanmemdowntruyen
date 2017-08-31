@@ -1,0 +1,10 @@
+truyentranh8.net##.lazy
+news.zing.vn###highlight
+m.blogtruyen.com##input[style="position: fixed;width: 20px;height: 20px; background: #16FF16;border: 0px;"]
+blogtruyen.com##.al-c.BT-Ads > center
+www.facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+hinative.com##.sidebar
+www.facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper > .inner
+tuoitre.vn##.bar-new
+||googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&format=300x250_as&output=html&h=250&w=300&loeid=9422596%2C9457114%2C9460349%2C9473905%2C9474595%2C9483853%2C9485090%2C9487926%2C9489766&pucrd=CggIARAAGAI4AQ&tfcd=1&channel=0854550287%2BVertical_211%2BVertical_3%2BVertical_316%2BVertical_317%2BVertical_36%2BVertical_613%2Bafc_on_page%2Bafv_user_fantasyssmusic%2Bafv_user_id_UZNK80DemBN3kyxusDLwrA%2Byt_cid_26378493%2Byt_mabv%2Byt_mpvid_sucnvybky9IqHk96%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20170824%2Bytel_detailpage%2Bytps_default&host=ca-host-pub-3619420230962241&ht_id=21265212&ad_type=image&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&flash=26.0.0&hl=en&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FTJ1dEGTGBlk&video_doc_id=yt_TJ1dEGTGBlk&wgl=1&dbp=ChZWa2oyQ3BlbXo3S21qekpIc2FGUll3EAEgASgA&lact=-1&yt_pt=APb3F2_hMoYVZmMsDWMQ6yZdRo4Xcc2pisrIGuCqgz8wL9dlsQuFTvTlcdOXh1GrgpOOLAGP56CFazAW1El7GxUM9TpSqQOAjxnjWi2hZ3sTY$subdocument
+
