@@ -157,6 +157,11 @@
   {
     font-size: 15px !important;
   }
+  
+  .alt2
+  {
+    font-size: 15px !important;
+  }
 
   textarea
   {
